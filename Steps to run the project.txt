@@ -1,0 +1,28 @@
+Steps to run the project:
+
+Step 1.
+To access the database file.
+.Install Wamp Server (during installation select default installation only).
+.Start your Wamp Server and open phpmyadmin.
+.Enter your username as root and leave the password empty and server choice as mariaDB.
+.Click on import from the above toolbar.  
+.select browse and select abc_sb.sql file from the project folder and open it.
+.Scroll down and click on "GO".
+.This will create the database in your system
+
+Step 2.
+.Open the location folder where the wamp is installed.
+.Open the folder Wamp64.
+.After that open the folder named -> WWW.
+.copy the whole final_project folder in the WWW folder.
+
+After that
+Go to the browser and in the URl bar type http://localhost/Final_Project/
+
+create a new user at signup page of the project and 
+login with the same credentials.
+Now enter details for the boooking.
+
+Now the same entries will be reflected in database. 
+
+  
